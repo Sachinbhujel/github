@@ -24,9 +24,3 @@ print(class_marks + age)
 # Input:- Taking information from the user.
 name = input("what is your name?")
 print("hello " + name)
-
-
-
-
-
-
